@@ -1,0 +1,28 @@
+h1{
+text-align: center;
+background-color: blanchedalmond;
+font-size: 60px;
+font-style:initial;
+}
+p{
+    text-align: center;
+    background-color: rgb(159, 154, 147);
+    font-family: fantasy;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    background-color: blanchedalmond;
+}
+body{
+    background-image: url(pexels-inna-rabotyagina-51317378-7952882.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+legend{
+    text-align: center;
+}
+fieldset{
+    text-align: center;
+}
